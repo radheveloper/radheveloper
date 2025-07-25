@@ -4,8 +4,6 @@
   Científico de Datos Junior | Apasionado por convertir datos en soluciones con impacto
 </p>
 
----
-
 ## 🧠 Sobre mí
 
 🎓 Apasionado por la Ciencia de Datos y el aprendizaje continuo.  
@@ -13,16 +11,19 @@
 🚀 Construyendo proyectos reales con Python, Pandas, y Scikit-learn.  
 📈 Motivado por responder preguntas con datos y contar historias con visualizaciones.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
 ## 📊 Proyectos destacados
+
+### 🛍️ Modelo de Predicción de Fuga de Clientes Bancarios
+
+>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+Modelo de Machine Learning para Identificar Clientes Bancarios en Riesgo de Abandono.
+
+🔗 [Ver en GitHub](https://github.com/radheveloper/bank-customer-churn/blob/main/Customer_Churn.ipynb)
 
 
 ---
