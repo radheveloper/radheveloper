@@ -39,4 +39,5 @@ Modelo de Machine Learning para Identificar Clientes Bancarios en Riesgo de Aban
 ## 📫 ¿Hablamos?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Radhe%20Sarmiento-blue?style=flat&logo=linkedin)](https://linkedin.com/in/radhe-sarmiento)
+
 📧 sarmientoradhe@gmail.com
