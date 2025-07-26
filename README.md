@@ -25,6 +25,19 @@ Modelo de Machine Learning para Identificar Clientes Bancarios en Riesgo de Aban
 
 🔗 [Ver en GitHub](https://github.com/radheveloper/bank-customer-churn/blob/main/Customer_Churn.ipynb)
 
+### ⚰️ Patrones de Mortalidad en Bucaramanga
+
+>![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+Análisis exploratorio de datos de mortalidad en Bucaramanga para identificar patrones.
+
+📊 Limpieza de datos exhaustiva y sobresaliente
+
+🔗 [Ver en GitHub](https://github.com/radheveloper/mortality-dataset)
 
 ---
 
